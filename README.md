@@ -56,8 +56,6 @@ LIMIT 5;
 ---
 
 ## **📊 Sample Visualizations**
-### **Sales Trend Over Time**
-![Sales Trend](visualizations/sales_trend.png)
 
 ### **Top 5 Best-Selling Products**
 ![Top Products](visualizations/top_products.png)
