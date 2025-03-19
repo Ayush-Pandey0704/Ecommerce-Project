@@ -74,7 +74,7 @@ LIMIT 5;
 ## **📥 How to Run the Project**
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/your-username/E-commerce-Data-Analysis.git
+git clone https://github.com/Ayush-Pandey0704/E-commerce-Data-Analysis.git
 ```
 2️⃣ Install required libraries:  
 ```sh
@@ -92,6 +92,6 @@ This project provides valuable insights into **customer behavior, sales trends, 
 ## **🔗 Connect with Me**
 👤 **Ayush Pandey**  
 📧 **work.ayushpandey@gmail.com**  
-🔗 **[LinkedIn Profile](www.linkedin.com/in/ayush-pandey-30462a331)**  
+🔗 **[LinkedIn Profile](https://linkedin.com/in/ayush-pandey-30462a331)**  
 
 ---
