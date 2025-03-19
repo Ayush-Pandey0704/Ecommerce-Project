@@ -57,14 +57,14 @@ LIMIT 5;
 
 ## **📊 Sample Visualizations**
 
-### **Top 5 Best-Selling Products**
-![Top Products](visualizations/top_products.png)
+### **Customers by State**
+![Customers_by_State](visualizations/customers_by_state.png)
 
-### **Customer Orders by City**
-![Orders by City](visualizations/orders_by_city.png)
+### **Orders by Month**
+![Orders by Month](visualizations/orders_by_month.png)
 
-### **Preferred Payment Methods**
-![Payment Methods](visualizations/payment_methods.png)
+### **Revenue by each Seller**
+![Revenue_by_each_Seller](visualizations/revenue_by_each_seller.png)
 
 ### **Customer Purchase Frequency**
 ![Purchase Frequency](visualizations/purchase_frequency.png)
@@ -92,6 +92,6 @@ This project provides valuable insights into **customer behavior, sales trends, 
 ## **🔗 Connect with Me**
 👤 **Ayush Pandey**  
 📧 **work.ayushpandey@gmail.com**  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/your-profile)**  
+🔗 **[LinkedIn Profile](www.linkedin.com/in/ayush-pandey-30462a331)**  
 
 ---
